@@ -1,0 +1,4 @@
+дек 04, 2023 9:55:25 PM Sem2Lesson4.Program writeInFile
+INFO: Запись прошла успешно
+дек 04, 2023 9:56:09 PM Sem2Lesson4.Program writeInFile
+INFO: Запись прошла успешно
