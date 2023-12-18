@@ -5,7 +5,7 @@ package Sem5Lesson6_Home;
 подсчитывает, сколько раз каждое имя встречается.
 Программа должна использовать HashMap для хранения имен и их количества вхождений.
 По завершении, программа выводит результат в виде пар "имя - количество". */
-public class Printer {
+public class Program {
     public static void main(String[] args) {
         String name1;
         String name2;
